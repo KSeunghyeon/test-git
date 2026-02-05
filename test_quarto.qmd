@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Seunghyeon"
-format: html
+format: gfm
 editor: visual
 ---
 
